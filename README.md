@@ -1,3 +1,15 @@
+---
+title: Invisible RAG Demo
+emoji: 1️⃣️⚖️2️⃣️
+colorFrom: purple
+colorTo: indigo
+sdk: gradio
+sdk_version: 4.21.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # Invisible RAG Pilot Demo App
 
 A public demo version of the [🔒 Invisible RAG Pilot app 🔒](https://github.com/sukiboo/invisible-rag) developed by Anton Dereventsov, Christina Munford, Davide Marchi, Dora Franjkovic, and Julia Naris in February 2024 for the Invisible RAG Pilot project.
