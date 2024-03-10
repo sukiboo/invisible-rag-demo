@@ -1,0 +1,36 @@
+{
+    "id": "demo_task_1",
+    "chat_history": [
+        [
+            "user message 1",
+            "bot message 1"
+        ],
+        [
+            "user message 2",
+            "bot message 2"
+        ]
+    ],
+    "question": "question",
+    "search_query": "search query",
+    "search_results": [
+        "source 1",
+        "source 2",
+        "source 3"
+    ],
+    "answer_1": "answer 1",
+    "answer_2": "answer 2",
+    "ratings_1": {
+        "groundedness": "null",
+        "utility": "null",
+        "fluency": "null",
+        "notes": ""
+    },
+    "ratings_2": {
+        "groundedness": "null",
+        "utility": "null",
+        "fluency": "null",
+        "notes": ""
+    },
+    "overall": "null",
+    "notes": ""
+}
