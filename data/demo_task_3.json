@@ -1,5 +1,5 @@
 {
-    "id": "demo_task_3",
+    "id": "3",
     "chat_history": [
         [
             "user message 1",
@@ -20,17 +20,17 @@
     "answer_1": "answer 1",
     "answer_2": "answer 2",
     "ratings_1": {
-        "groundedness": "null",
-        "utility": "null",
-        "fluency": "null",
+        "groundedness": "",
+        "utility": "",
+        "fluency": "",
         "notes": ""
     },
     "ratings_2": {
-        "groundedness": "null",
-        "utility": "null",
-        "fluency": "null",
+        "groundedness": "",
+        "utility": "",
+        "fluency": "",
         "notes": ""
     },
-    "overall": "null",
+    "overall": "",
     "notes": ""
 }
