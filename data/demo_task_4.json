@@ -1,0 +1,23 @@
+{
+    "id": "4",
+    "chat_history": [],
+    "question": "https://www.brooks-frank.com/",
+    "search_query": "[no search query]",
+    "search_results": [],
+    "answer_1": "I was unable to find a source for that URL, however, I did find some information regarding Brooks Frank. Would you like to know more about Brooks Frank?",
+    "answer_2": "This website is the official website of Brooks-Frank International Consulting Services. The company offers a range of services to support businesses and individuals in their international business ventures. These services include cross-border business advisory and market entry, global expansion advisory, language and cultural consulting, and training and capacity building. The website includes a range of resources and insights related to international business and cross-cultural communication and collaboration and provides contact information and details for potential clients to reach out for further information or support.",
+    "ratings_1": {
+        "groundedness": "",
+        "utility": "",
+        "fluency": "",
+        "notes": ""
+    },
+    "ratings_2": {
+        "groundedness": "",
+        "utility": "",
+        "fluency": "",
+        "notes": ""
+    },
+    "overall": "",
+    "notes": ""
+}
